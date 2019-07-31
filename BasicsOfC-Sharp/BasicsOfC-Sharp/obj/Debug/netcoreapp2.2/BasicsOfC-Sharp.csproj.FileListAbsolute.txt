@@ -1,0 +1,11 @@
+C:\Users\Zahid Ahmed\source\repos\BasicsOfC-Sharp\BasicsOfC-Sharp\bin\Debug\netcoreapp2.2\BasicsOfC-Sharp.deps.json
+C:\Users\Zahid Ahmed\source\repos\BasicsOfC-Sharp\BasicsOfC-Sharp\bin\Debug\netcoreapp2.2\BasicsOfC-Sharp.runtimeconfig.json
+C:\Users\Zahid Ahmed\source\repos\BasicsOfC-Sharp\BasicsOfC-Sharp\bin\Debug\netcoreapp2.2\BasicsOfC-Sharp.runtimeconfig.dev.json
+C:\Users\Zahid Ahmed\source\repos\BasicsOfC-Sharp\BasicsOfC-Sharp\bin\Debug\netcoreapp2.2\BasicsOfC-Sharp.dll
+C:\Users\Zahid Ahmed\source\repos\BasicsOfC-Sharp\BasicsOfC-Sharp\bin\Debug\netcoreapp2.2\BasicsOfC-Sharp.pdb
+C:\Users\Zahid Ahmed\source\repos\BasicsOfC-Sharp\BasicsOfC-Sharp\obj\Debug\netcoreapp2.2\BasicsOfC-Sharp.csprojAssemblyReference.cache
+C:\Users\Zahid Ahmed\source\repos\BasicsOfC-Sharp\BasicsOfC-Sharp\obj\Debug\netcoreapp2.2\BasicsOfC-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Zahid Ahmed\source\repos\BasicsOfC-Sharp\BasicsOfC-Sharp\obj\Debug\netcoreapp2.2\BasicsOfC-Sharp.AssemblyInfoInputs.cache
+C:\Users\Zahid Ahmed\source\repos\BasicsOfC-Sharp\BasicsOfC-Sharp\obj\Debug\netcoreapp2.2\BasicsOfC-Sharp.AssemblyInfo.cs
+C:\Users\Zahid Ahmed\source\repos\BasicsOfC-Sharp\BasicsOfC-Sharp\obj\Debug\netcoreapp2.2\BasicsOfC-Sharp.dll
+C:\Users\Zahid Ahmed\source\repos\BasicsOfC-Sharp\BasicsOfC-Sharp\obj\Debug\netcoreapp2.2\BasicsOfC-Sharp.pdb
